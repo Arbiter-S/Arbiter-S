@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Ali</h1>
+<h3 align="center">A passionate backend developer from Iran</h3>
+
 # 💫 About Me:
 👯 I’m looking to collaborate on backend projects, Django applications, and API development.  <br><br>💬 Ask me about Python, Django, databases, and backend architecture.
 
